@@ -41,7 +41,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **Weijie Yu** - *Initial work* - [Frank Yu](https://github.com/Frank-W-Yu)
+* **Weijie Yu** - *Initial work* - [Frank W Yu](https://github.com/Frank-W-Yu)
 
 
 ## License
